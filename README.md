@@ -1,2 +1,2 @@
 # Recursion
-[picture-1](image.jpg)
+![picture-1](image.jpg)
